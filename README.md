@@ -11,3 +11,5 @@
 
 
 *— Extracted from page 230, Wisdom as a Privilege: Decoding Dr. Ratio*
+
+<img src="https://komarev.com/ghpvc/?username=mundanite&color=1a2253&style=flat&label=mundanes">
